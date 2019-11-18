@@ -1,0 +1,41 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Raleway", serif;
+}
+
+
+.name, .position {
+    font-size: large;
+    color: black;
+}
+
+.name {
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+
+.position {
+    font-weight: normal;
+}
+
+.contacts {
+    font-size: x-small;
+    font-family: 'Roboto Mono', monospace;
+    color: gray;
+}
+
+.data-section {
+    width: 60%;
+}
+
+.row {
+    margin-bottom: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.navbar-header {
+    margin-bottom: 30px;
+    border-bottom: 2px solid coral;
+}
