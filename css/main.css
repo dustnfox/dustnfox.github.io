@@ -27,7 +27,7 @@
 }
 
 .data-section {
-    width: 60%;
+    width: 80%;
 }
 
 .row {
@@ -38,6 +38,11 @@
 .section-bottom {
     margin-bottom: 0;
     border-bottom: none;
+}
+
+.badges {
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 
 .navbar-header {
@@ -59,4 +64,13 @@ h6 {
 h4 {
     font-weight: 600;
     font-size: medium;
+}
+
+ul {
+    padding: 0 0 0 10px;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 20px;
 }
