@@ -35,7 +35,28 @@
     border-bottom: 1px solid lightgray;
 }
 
+.section-bottom {
+    margin-bottom: 0;
+    border-bottom: none;
+}
+
 .navbar-header {
     margin-bottom: 30px;
     border-bottom: 2px solid coral;
+}
+
+.section-name {
+    color: coral;
+    font-style: italic;
+}
+
+h6 {
+    font-style: italic;
+    font-weight: 100;
+    font-size: medium;
+}
+
+h4 {
+    font-weight: 600;
+    font-size: medium;
 }
